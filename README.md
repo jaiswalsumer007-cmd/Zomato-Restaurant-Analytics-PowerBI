@@ -8,29 +8,6 @@ using a Zomato-style restaurant dataset.
 > describe the dataset used in this project and should not be treated as
 > verified representations of the current real-world restaurant market.
 
-## Dashboard Preview
-
-Add your dashboard screenshots to a folder named `screenshots/` in this
-repository, then uncomment and update the image links below.
-
-```{=html}
-<!--
-### 1. Overview
-![Overview dashboard](screenshots/overview.png)
-
-### 2. Geographic Analysis
-![Geographic analysis dashboard](screenshots/geographic-analysis.png)
-
-### 3. Cuisine & Pricing Analysis
-![Cuisine and pricing dashboard](screenshots/cuisine-pricing.png)
-
-### 4. Rating & Customer Engagement
-![Rating and engagement dashboard](screenshots/ratings-engagement.png)
-
-### 5. Restaurant Explorer
-![Restaurant Explorer dashboard](screenshots/restaurant-explorer.png)
--->
-```
 ## Project Objectives
 
 -   Summarize restaurant coverage and rating performance.
